@@ -2,7 +2,7 @@
  	background: #CCCCFF;
  }
  h1 {
- 	font-family: Verdana, Geneva, sans-serif; 
+ 	font-family: "Arial Black", Gadget, sans-serif; 
  }
  h1.groove {
  	border-style: groove;
@@ -30,3 +30,4 @@ ul.ex {
     margin-right: 50px;
     margin-left: 50px;
 }
+
